@@ -16,7 +16,4 @@ A simple implementation of the classic Tic-Tac-Toe game in Python. This console-
 - Checks for a winner or a tie after each move.
 - Simple and easy-to-understand Python code.
 
-## Example
-
-Here's a brief example of a game:
 
